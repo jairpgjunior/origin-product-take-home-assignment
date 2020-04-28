@@ -1,4 +1,4 @@
-# Product Review - Fullstory
+# Product Analysis - Fullstory
 https://www.fullstory.com/
 
 FullStory is a customer experience data app that captures customer experience data in one powerful and easy-to-use platform.
