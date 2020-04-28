@@ -17,7 +17,7 @@ Fullstory simplifies a lot of work for builders. My two favorite features:
  
 ### Feature 1: Fast search and querying methods
 
-The starting point for analyzing data is an actionable dashboard showing information about the last users' sessions. Some widgets are displaying information about frustrated sessions, slowest pages, error clicks, top users, and more. At the top of the page, we can find a box to search and filter sessions as we want to. We can save these searches as segments in the platform, to not be necessary to set all filter conditions again.
+The starting point for analyzing data is an actionable dashboard showing information about the last user sessions. Some widgets are displaying information about frustrated sessions, slowest pages, error clicks, top users, and more. At the top of the page, we can find a box to search and filter sessions as we want to. We can save these searches as segments in the platform, to not be necessary to set all filter conditions again.
 This easy-to-find information probably has a big impact on how builders use Fullstory appropriately.
 
 ![Feature Searching](./feature-1-searching.gif)
