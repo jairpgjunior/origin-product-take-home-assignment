@@ -3,11 +3,11 @@ https://www.fullstory.com/
 
 FullStory is a customer experience data app that captures customer experience data in one powerful and easy-to-use platform.
 
-![Fullstory Hero](https://github.com/jairpgjunior/origin-product-take-home-assignment/blob/dev/JairJunior/fullstory-hero.png)
+![Fullstory Hero](./fullstory-hero.png)
 
 ## Introduction
 
-Data analytics is difficult. Today, product *builders* have powerful tools to help measure and develop digital products, such as Google Analytics, Mixpanel, Heap, and Hotjar. But for precise use requires efforts doing an appropriate setup and we have to invest much time querying and analyzing pieces of information. In a startup context, as fast as we can learn, test, and release new solutions can be decisive to drive customer adoption and make a product valuable for final users. 
+Data analytics is difficult. Today, product __builders__ have powerful tools to help measure and develop digital products, such as Google Analytics, Mixpanel, Heap, and Hotjar. But for precise use requires efforts doing an appropriate setup and we have to invest much time querying and analyzing pieces of information. In a startup context, as fast as we can learn, test, and release new solutions can be decisive to drive customer adoption and make a product valuable for final users. 
 When I heard about Fullstory for the first time, I thought immediately: “One more analytics tools.” But Fullstory surprised me in a very good way, allowing me to get great insights working just one portion of the time that I have to work using typical tools, like the ones mentioned above. For me, sharing my time and energy doing different tasks, I can well analyze and get better insights working less than usual on data analytics. 
 
 ## Best parts
@@ -19,14 +19,14 @@ Fullstory simplifies a lot of work for builders. My two favorite features:
 The starting point for analyzing data is an actionable dashboard showing information about the last users' sessions. Some widgets are displaying information about frustrated sessions, slowest pages, error clicks, top users, and more. At the top of the page, we can find a box to search and filter sessions as we want to. We can save these searches as segments in the platform, to not be necessary to set all filter conditions again.
 This easy-to-find information probably has a big impact on how builders use Fullstory appropriately.
 
-![Feature Searching](https://github.com/jairpgjunior/origin-product-take-home-assignment/blob/dev/JairJunior/feature-1-searching.gif)
+![Feature Searching](./feature-1-searching.gif)
 [Youtube Video Link](https://www.youtube.com/watch?v=ZPy9EvrRt2c)
 
 ### Feature 2: Troubleshooting panel 
 
 Fullstory provides many features such as events tracking, user sessions replay, and a development console to simulate and understand bugs, saving time trying to reverse engineer discovering how the customer bumped into this error. The benefit of an “All-in-one” user analytics platform is a worthwhile alternative to not use many platforms, decreasing the complexity to take actions fastly and make improvements to engage more users.
 
-![Feature Troubleshooting](https://github.com/jairpgjunior/origin-product-take-home-assignment/blob/dev/JairJunior/feature-2-troubleshooting.gif)
+![Feature Troubleshooting](./feature-2-troubleshooting.gif)
 [Youtube Video Link](https://www.youtube.com/watch?v=HpM4qua9tK0)
 
 ### Metrics
@@ -41,10 +41,10 @@ Frequency. How many times per week users come back and use Fullstory?
 
 Comparing these metrics with alternative tools can tell us how effective these features are relevant for the product, but not individually. 
 
-Looking to *Feature 1* specifically, I would like to monitor:
-- Which percentage, in the user flow, builders prefer to user the *search panel* as a starting point?
+Looking to __Feature 1__ specifically, I would like to monitor:
+- Which percentage, in the user flow, builders prefer to user the __search panel__ as a starting point?
 
-Considering *Feature 2*: 
+Considering __Feature 2__: 
 - How often builders interact with the troubleshooting panel while replaying users sessions?
 
 Thinking about this feature, it’s a good idea to tag the developers in the team because this can be the only feature used by them. 
@@ -62,7 +62,7 @@ Many companies don't have the resources to do data analytics appropriately. And 
 My approach to solving this problem is to build an engine to analyze information and to define segments by itself. This way, Fullstory can help builders to look to the right user groups and focus to help them complete the expected behaviors. 
 An additional idea is to build a simple, direct-to-the-point timeline to understand typical behaviors from these groups and how they perform actions and when exactly. Using this resumed information, builders can, for example, plan campaigns to engage users in the right moment, and help them break the barriers to turn active users. 
 
-![feature Proposal Smart Segments](https://github.com/jairpgjunior/origin-product-take-home-assignment/blob/dev/JairJunior/feature-proposal-smart-segments.png)
+![feature Proposal Smart Segments](./feature-proposal-smart-segments.png)
 
 To build a feature like this can be challenging. How hard can it be to define rules and predictive models to effectively suggest segments? I think we can start asking builders what kind of product they are building and automatically define key actions based in a generic product context. We can start asking simple questions, like:
 What is the success of your product?
@@ -91,7 +91,7 @@ Besides the general metrics for product success, the correct approach to test th
 - Time spent analyzing data and watching sessions replay. Groups:
     - Users not clustered by segments.
     - Typical segments.
-    - *Smart segments.* (I expect this group will be the better one)
+    - __Smart segments.__ (I expect this group will be the better one)
 - Compare typical product metrics between builders who have access to the Smart Segments feature, and those who haven't.
 
 ## Final thoughts 
