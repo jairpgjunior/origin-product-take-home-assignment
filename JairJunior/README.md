@@ -42,18 +42,18 @@ Frequency. How many times per week users come back and use Fullstory?
 Comparing these metrics with alternative tools can tell us how effective these features are relevant for the product, but not individually. 
 
 Looking to __Feature 1__ specifically, I would like to monitor:
-- Which percentage, in the user flow, builders prefer to user the __search panel__ as a starting point?
+- Which percentage of sessions, builders prefer to use the __search panel__ as a starting point?
 
 Considering __Feature 2__: 
-- How often builders interact with the troubleshooting panel while replaying users sessions?
+- How often builders interact with the troubleshooting panel while replaying user sessions?
 
 Thinking about this feature, it’s a good idea to tag the developers in the team because this can be the only feature used by them. 
 
 ## Could be better
 
 Fullstory groups users by segments. It allows builders to look just for a specific group of users sharing the same characteristics. When we use a specific filter searching, we can save this as a segment. The problem is that many times I’m guessing about which behaviors and events to track with a stake in the customer’s success. The reverse sounds more interesting for me.  Why not ask:
-What my best users are doing?
-What are the main barriers to users completing key activities in my product?
+- What my best users are doing?
+- What are the main barriers to users completing key activities in my product?
 
 ## Feature planning: Smart Segments
 
@@ -66,9 +66,9 @@ An additional idea is to build a simple, direct-to-the-point timeline to underst
 
 To build a feature like this can be challenging. How hard can it be to define rules and predictive models to effectively suggest segments? I think we can start asking builders what kind of product they are building and automatically define key actions based in a generic product context. We can start asking simple questions, like:
 What is the success of your product?
-Users use it every day.
-Users accomplish a purchase.
-Users submit a form.
+- Users use it every day.
+- Users accomplish a purchase.
+- Users submit a form.
 
 Starting simple can be decisive to execute this feature, learn from users, and iterate fast. We can implement a simple decision model to help classify user groups and allow for builders to change these segments and help us improve our classifications rules.
 
@@ -78,8 +78,8 @@ If the feature proves itself valuable to users, we can make it better and apply 
 
 To successfully plan and build what I propose before, I would follow these steps:
 - A 5-day Design Sprint to align the team and understand user needs.
-- Classify product types, typical behaviors and growth metrics to help builders auto-tracking successful users.
 - Recruit and establish a small beta group to help, giving us constant feedback in the design process. 
+- Classify product types, typical behaviors and growth metrics to help builders auto-tracking successful users.
 - Prototype fast and validate some assumptions.
 - Define a roadmap based on time constraints.
 - Run sprints and release gradually.
@@ -96,9 +96,9 @@ Besides the general metrics for product success, the correct approach to test th
 
 ## Final thoughts 
 
-To finish my review, I just would like to share a vision and curiosity about a feature I would like to explore (and hopefully build) :)
+To finish my review, I just would like to share a vision and curiosity about a feature I would like to explore. :)
 
-Tools like Google Optimize allow us to run A/B tests and compare alternatives to improve product variants. But to set up different A/B can be complex and hard to measure when using many variants. An alternative approach could be to train an AI model to do A/B tests on auto-pilot, and define which patterns and improvements can be done to generate a better interface for each user. Doing this product review, I just remember an interesting lecture I find few months ago: [The Third Generation of Interfaces](https://www.interfaces3.com/)
+Tools like Google Optimize allow us to run A/B tests and compare alternatives to improve product variants. But to set up different A/B can be complex and hard to measure when using many variants. An alternative approach could be to train an AI model to do A/B tests on auto-pilot, and define which patterns and improvements can be done to generate a better interface for each user. During this product review, I recalled an interesting article I found a few months ago: [The Third Generation of Interfaces](https://www.interfaces3.com/)
 
 Probably, soon we will customize interfaces and experiences to evolve and change according to each user’s specific needs. And this is going to be a big shift in the way of how we design and build software.
 
