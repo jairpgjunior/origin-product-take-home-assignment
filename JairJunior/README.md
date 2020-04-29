@@ -66,10 +66,11 @@ An additional idea is to build a simple, straight to the point timeline to under
 ![feature Proposal Smart Segments](./feature-proposal-smart-segments.png)
 
 To build a feature like this can be challenging. How hard can it be to define rules and predictive models to effectively suggest segments? I think we can start asking builders what kind of product they are building and automatically define key actions based in a generic product context. We can start asking simple questions, like:
-What is the success of your product?
-- Users use it every day.
-- Users accomplish a purchase.
-- Users submit a form.
+
+- What is the success of your product?
+  - Users use it every day.
+  - Users accomplish a purchase.
+  - Users submit a form.
 
 Starting simple can be decisive to execute this feature, learn from users, and iterate fast. We can implement a simple decision model to help classify user groups and allow for builders to change these segments and help us improve our classifications rules.
 
