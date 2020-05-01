@@ -96,6 +96,17 @@ Besides the general metrics for product success, the correct approach to test th
     - __Smart segments.__ (I expect this group will be the better one)
 - Compare typical product metrics between builders who have access to the Smart Segments feature, and those who haven't.
 
+## KPI’s and business motivation
+From a business perspective, the feature proposed can be highly impactful for acquisition and users retention. Smart Segments will be a premium feature after the beta stage and the main objective building this feature is to accelerate Fullstory revenue growth. I expect significant impact on following business metrics:
+__Key results:__
+- Increase monthly revenue by X%.
+- Increase the proportion of premium/free users by X%.
+- Increase by X% sign-up conversion rate. (more users interested)
+- Increase by X% engagement and session time on a trial period.
+  
+More factors should affect the metrics above, and to measure it appropriately, I will compare the product metrics mentioned before, to evaluate how important Smart Segments feature is for the product, comparing between others most used features. Also, we can use in-app forms to ask new active users, which is the main feature that convinced them to buy a premium subscription.
+Fullstory has strong competitors offering great alternative solutions, making it hard to compete, and to retain premium users. Applying a real user-centric approach and automating tasks using recommendation systems can be decisive to grow the product and the business.
+
 ## Final thoughts 
 
 To finish my review, I just would like to share a vision and curiosity about a feature I would love to explore. :)
